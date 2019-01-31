@@ -10,8 +10,7 @@
         "illuminate/queue": "5.5.*",
         "illuminate/redis": "5.5.*",
         "illuminate/encryption": "5.5.*",
-        "illuminate/events": "5.5.*",
-        "illuminate/broadcasting": "5.5.*"
+        "illuminate/events": "5.5.*"
     },
     "autoload": {
         "psr-4": {
