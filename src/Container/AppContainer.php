@@ -1,5 +1,5 @@
 <?php
-namespace Avana\EventBroadcast\Container;
+namespace Adiputra\EventBroadcast\Container;
 
 require_once '../vendor/autoload.php';
 

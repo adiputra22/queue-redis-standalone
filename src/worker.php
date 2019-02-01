@@ -3,7 +3,7 @@
 use Illuminate\Queue\Worker;
 use Illuminate\Events\Dispatcher;
 use Illuminate\Queue\WorkerOptions;
-use Avana\EventBroadcast\Exception\MyQueueException;
+use Adiputra\EventBroadcast\Exception\MyQueueException;
 
 $queue = require 'init.php';
 

@@ -5,9 +5,9 @@ require '../vendor/autoload.php';
 use Illuminate\Queue\Capsule\Manager as QueueManager;
 use Illuminate\Redis\RedisManager;
 
-use Avana\EventBroadcast\Event\SendData;
-use Avana\EventBroadcast\Exception\MyQueueException;
-use Avana\EventBroadcast\Container\AppContainer;
+use Adiputra\EventBroadcast\Event\SendData;
+use Adiputra\EventBroadcast\Exception\MyQueueException;
+use Adiputra\EventBroadcast\Container\AppContainer;
 
 $queue = new QueueManager(new AppContainer());
 $container = $queue->getContainer();

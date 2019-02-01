@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Avana\\EventBroadcast\\": "src/"
+            "Adiputra\\EventBroadcast\\": "src/"
         }
     }
 }

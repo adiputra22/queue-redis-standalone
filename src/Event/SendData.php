@@ -1,5 +1,5 @@
 <?php
-namespace Avana\EventBroadcast\Event;
+namespace Adiputra\EventBroadcast\Event;
 
 class SendData
 {

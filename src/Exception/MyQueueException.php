@@ -1,5 +1,5 @@
 <?php
-namespace Avana\EventBroadcast\Exception;
+namespace Adiputra\EventBroadcast\Exception;
 
 use \Illuminate\Contracts\Debug\ExceptionHandler;
 
